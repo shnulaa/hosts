@@ -12,7 +12,7 @@
 - wallhaven: `https://raw.githubusercontent.com/oopsunix/hosts/main/hosts_wallhaven`
 
 
-## 修改hosts文件
+## 修改hosts文件 
 复制 hosts 文本 -> 将复制的文本粘贴至系统 hosts 文件
 
 - Windows
