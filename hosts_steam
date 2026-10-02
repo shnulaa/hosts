@@ -1,19 +1,19 @@
 # Steam Hosts Start
-23.60.175.16		steam-chat.com
-23.60.175.16		steamcommunity.com
-23.60.175.16		www.steamcommunity.com
-23.221.22.81		api.steampowered.com
-72.247.207.70		help.steampowered.com
-23.220.200.93		store.steampowered.com
-23.215.55.138		media.steampowered.com
-23.223.240.79		login.steampowered.com
-104.68.252.235		checkout.steampowered.com
-146.75.107.52		community.steamstatic.com
-23.215.55.138		avatars.akamai.steamstatic.com
-23.215.55.133		cdn.akamai.steamstatic.com
-23.55.178.174		community.akamai.steamstatic.com
-23.55.178.185		store.akamai.steamstatic.com
-23.47.48.115		steamcdn-a.akamaihd.net
-# Update Time: 2026-10-02 02:46:58 (UTC+8) 
+23.221.252.218		steam-chat.com
+23.221.252.218		steamcommunity.com
+23.35.28.216		www.steamcommunity.com
+23.48.203.49		api.steampowered.com
+23.213.92.153		help.steampowered.com
+23.35.30.176		store.steampowered.com
+23.223.247.212		media.steampowered.com
+23.48.203.43		login.steampowered.com
+23.213.67.3		checkout.steampowered.com
+146.75.39.52		community.steamstatic.com
+23.223.247.219		avatars.akamai.steamstatic.com
+23.223.247.210		cdn.akamai.steamstatic.com
+23.223.247.222		community.akamai.steamstatic.com
+23.223.247.196		store.akamai.steamstatic.com
+23.215.0.133		steamcdn-a.akamaihd.net
+# Update Time: 2026-10-03 02:19:11 (UTC+8) 
 # Update URL: https://raw.githubusercontent.com/oopsunix/hosts/main/hosts_steam
 # Steam Hosts End
